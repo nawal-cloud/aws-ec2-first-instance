@@ -1,4 +1,3 @@
-<img width="1910" height="933" alt="aws-console-Ec2-Amazon" src="https://github.com/user-attachments/assets/39f48c89-18d1-4b6f-8162-ddea804ceb83" /># AWS EC2 First Instance Project
 
 ## Overview
 Launched first EC2 instance (Amazon Linux 2) with Apache web server.
@@ -10,6 +9,7 @@ Launched first EC2 instance (Amazon Linux 2) with Apache web server.
 4. Connected via SSH and installed Apache
 5. Verified Apache test page via public IP
 ## Screenshots
+<img width="1910" height="933" alt="aws-console-Ec2-Amazon" src="https://github.com/user-attachments/assets/39f48c89-18d1-4b6f-8162-ddea804ceb83" /># AWS EC2 First Instance Project
 <img width="1910" height="933" alt="aws-console-Ec2-Amazon" src="https://github.com/user-attachments/assets/5358120f-aa7f-437e-b508-73acc0fec930" />
 <img width="1857" height="763" alt="aws-console-launch" src="https://github.com/user-attachments/assets/147f1ffb-80d6-48fe-b61f-37e229d5bbed" />
 <img width="1502" height="747" alt="aws-ec2-Instance" src="https://github.com/user-attachments/assets/7db7868b-8b5b-4c95-b7e4-7f4195432cb1" />
